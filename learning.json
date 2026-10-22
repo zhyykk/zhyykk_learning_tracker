@@ -1,0 +1,13 @@
+{
+  "algorithm": [
+    {"name":"数组专题刷题","finish":false},
+    {"name":"链表专题刷题","finish":false}
+  ],
+  "distributed": [
+    {"name":"DDIA第一章阅读","finish":false},
+    {"name":"CAP理论学习","finish":false}
+  ],
+  "interview_bq": [
+    {"name":"积累第一条STAR故事","finish":false}
+  ]
+}
